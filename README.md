@@ -95,7 +95,8 @@ This project is designed to be deployed on [Vercel](https://vercel.com). Follow 
 ![FAQ Section](./screenshots/faq.png)
 
 ### Footer section
-![Footer](./screenshots/footer.png)
+![FAQ Section](./screenshots/footer.png)
+
 
 ---
 
