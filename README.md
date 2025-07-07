@@ -24,6 +24,11 @@ npm install
 npm run dev
 ```
 
+### 4. Live link of this project
+```bash
+https://grow-my-therapy.netlify.app/
+```
+
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 ---
